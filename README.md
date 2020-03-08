@@ -1,2 +1,2 @@
 # devdrive-lcp-html-gen
-Devdrive CTL (Note Text Language) element generator
+Devdrive CTL (Comment Text Language) display element generator
